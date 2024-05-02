@@ -112,9 +112,9 @@ merged = false
 repo = "ribru17/bamboo.nvim"
 merged = false
 
-[[custom_plugins]]
-repo = "dracula/vim"
-merged = false
+#[[custom_plugins]]
+#repo = "dracula/vim"
+#merged = false
 
 [[custom_plugins]]
 repo = "nanotech/jellybeans.vim"
